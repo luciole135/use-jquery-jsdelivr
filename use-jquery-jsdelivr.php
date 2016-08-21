@@ -7,6 +7,7 @@ Description: Charge les bibliothèques open source jQuery, jQuery-migrate et jQu
 Author: luciole135
 Author URI: http://additifstabac.free.fr
 Version: 1.2
+License: GPLv3
 */
 function modify_jquery_luc() {global $wp_scripts;
 	if (!is_admin()) {
